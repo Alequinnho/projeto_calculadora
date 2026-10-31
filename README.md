@@ -13,8 +13,8 @@
 **Turma:** AS406TSN2  
 **Curso:** Análise e Desenvolvimento de Sistemas (Facens)  
 **Disciplina:** UX/UI e Testes de Software  
-**Professor:** Nome do professor  
-**Semestre:** 2026.2
+**Professor:** Daniel Ohata  
+**Semestre:** Segundo semestre - 2026
 
 ---
 
