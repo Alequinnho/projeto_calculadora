@@ -1,7 +1,22 @@
 package calculadora;
 
+/**
+ * <p><strong>Testes da classe {@link Calculadora}</strong></p>
+ *
+ * <p>Executa as quatro operações, a divisão por zero, um operador inválido
+ * e um operador nulo. Para cada teste são exibidos a entrada utilizada,
+ * o resultado esperado e o resultado obtido.</p>
+ *
+ * @author Alex Francisco de Camargo
+ * @version 1.0
+ */
 public class TesteCalculadora {
 
+    /**
+     * Método principal que executa os testes e imprime os resultados no console.
+     *
+     * @param args argumentos de linha de comando (não utilizados)
+     */
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
 
